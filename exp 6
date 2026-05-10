@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Frameset and Iframe Demo</title>
+</head>
+
+<frameset rows="30%,70%">
+
+    <!-- <frame src="https://www.flipkart.com/"> -->
+
+    <frame src="https://www.google.com/">
+
+    <frameset cols="30%,30%,40%">
+
+        <!-- Left Frame -->
+        <frame src="cse.jpg">
+
+        <!-- Right Frame -->
+        <frame src="civil.jpg">
+
+        <frame src="mech.jpg">
+
+
+    </frameset>
+
+</frameset>
+
+</html>
