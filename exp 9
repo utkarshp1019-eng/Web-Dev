@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Employee Registration Form</title>
+</head>
+<body>
+
+    <h2>Employee Registration Form</h2>
+
+    <form action="#" method="post">
+
+        <!-- Full Name -->
+        <label>Full Name:</label><br>
+        <input type="text" name="fullname" required><br><br>
+
+        <!-- Email -->
+        <label>Email:</label><br>
+        <input type="email" name="email" required><br><br>
+
+        <!-- Password -->
+        <label>Password:</label><br>
+        <input type="password" name="password" required><br><br>
+
+        <!-- Gender -->
+        <label>Gender:</label><br>
+        <input type="radio" name="gender" value="male"> Male
+        <input type="radio" name="gender" value="female"> Female<br><br>
+
+        <!-- Date of Birth -->
+        <label>Date of Birth:</label><br>
+        <input type="date" name="dob"><br><br>
+
+        <!-- Phone Number -->
+        <label>Phone Number:</label><br>
+        <input type="tel" name="phone"><br><br>
+
+        <!-- Department -->
+        <label>Department:</label><br>
+        <select name="department">
+            <option>HR</option>
+            <option>IT</option>
+            <option>Finance</option>
+            <option>Marketing</option>
+        </select><br><br>
+
+        <!-- Skills -->
+        <label>Skills:</label><br>
+        <input type="checkbox" name="skills" value="java"> Java
+        <input type="checkbox" name="skills" value="python"> Python
+        <input type="checkbox" name="skills" value="web"> Web Development<br><br>
+
+        <!-- Address -->
+        <label>Address:</label><br>
+        <textarea name="address"></textarea><br><br>
+
+        <!-- Submit Button -->
+        <input type="submit" value="Register">
+        <input type="reset" value="Clear">
+
+    </form>
+
+</body>
+</html>
