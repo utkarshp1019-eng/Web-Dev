@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>dypcet</title>
+</head>
+<body>
+<h1>D.Y.Patil College Of Engineering And Technology</h1>
+<h2 style=color:blue> Branches</h2>
+<h3  style=color:red> 1.CSE <h3>
+<a href="https://coek.dypgroup.edu.in/departments/computer-science-engineering" alt=CSE>
+<img src="cse.jpg" width=1240;height=200 >
+<h3  style=color:red> 2.ENTC<h3>
+<a href="https://coek.dypgroup.edu.in/departments/electronics-telecommunication-engineering" alt=ENTC>
+<img src="entc.jpg"  width=1240;height=200 >
+<h3  style=color:red> 3.CIVIL<h3>
+<a href="https://coek.dypgroup.edu.in/departments/civil-engineering" alt="civil">
+<img src="civil.jpg" width=1240;height=200 >
+<h3  style=color:red> 4.MECHANICAl<h3>
+<a href="https://coek.dypgroup.edu.in/departments/mechanical-engineering" alt="mech">
+<img src="mech.jpg" width=1240;height=200 >
+</body>
+</html>
